@@ -1,0 +1,9 @@
+Print the starting and ending positions(1 indexing) of first such occuring 
+subarray from the left if sum equals to subarray, else print -1.
+
+1 2 3 7 5
+len = 5, sum =12
+
+2+3+7 = 12, so
+index of 2 and index of 7
+1 3
